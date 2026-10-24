@@ -1,0 +1,8 @@
+c:\Users\ankus\Videos\PYTHON\PRACTICE\API_PRACTICE\backend-dotnet\publish-check\appsettings.Development.json
+c:\Users\ankus\Videos\PYTHON\PRACTICE\API_PRACTICE\backend-dotnet\publish-check\appsettings.json
+c:\Users\ankus\Videos\PYTHON\PRACTICE\API_PRACTICE\backend-dotnet\publish-check\backend-dotnet.dll
+c:\Users\ankus\Videos\PYTHON\PRACTICE\API_PRACTICE\backend-dotnet\publish-check\backend-dotnet.deps.json
+c:\Users\ankus\Videos\PYTHON\PRACTICE\API_PRACTICE\backend-dotnet\publish-check\backend-dotnet.runtimeconfig.json
+c:\Users\ankus\Videos\PYTHON\PRACTICE\API_PRACTICE\backend-dotnet\publish-check\backend-dotnet.pdb
+c:\Users\ankus\Videos\PYTHON\PRACTICE\API_PRACTICE\backend-dotnet\publish-check\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\ankus\Videos\PYTHON\PRACTICE\API_PRACTICE\backend-dotnet\publish-check\Microsoft.OpenApi.dll
