@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {
       "Microsoft.AspNetCore.OpenApi/10.0.13": {
@@ -83,29 +83,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ankus\\.nuget\\packages\\": {}
+    "/home/test/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ankus\\Videos\\PYTHON\\PRACTICE\\API_PRACTICE\\backend-dotnet\\backend-dotnet.csproj",
+      "projectUniqueName": "/home/test/API_PRACTICE/backend-dotnet/backend-dotnet.csproj",
       "projectName": "backend-dotnet",
-      "projectPath": "C:\\Users\\ankus\\Videos\\PYTHON\\PRACTICE\\API_PRACTICE\\backend-dotnet\\backend-dotnet.csproj",
-      "packagesPath": "C:\\Users\\ankus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ankus\\Videos\\PYTHON\\PRACTICE\\API_PRACTICE\\backend-dotnet\\obj\\",
+      "projectPath": "/home/test/API_PRACTICE/backend-dotnet/backend-dotnet.csproj",
+      "packagesPath": "/home/test/.nuget/packages/",
+      "outputPath": "/home/test/API_PRACTICE/backend-dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ankus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/test/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -120,11 +120,10 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
@@ -151,7 +150,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.113/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

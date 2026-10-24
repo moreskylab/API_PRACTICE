@@ -1,0 +1,30 @@
+# Python environment & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Package manager files
+.uv/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Local variables and logs
+*.log
+.env
+
+# Git
+.git
+.gitignore
